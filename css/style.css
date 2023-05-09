@@ -8,3 +8,6 @@ header {
 header > ul {
   display: flex;
 }
+footerr {
+  border: 1px solid green;
+}
